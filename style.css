@@ -1,1 +1,17 @@
-
+.card {
+    border: black;
+    padding: 100px;
+}
+body {
+    background-color: rgb(252, 250, 245);
+}
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+button {
+    background-color: rgb(152, 241, 79);
+    border: black;
+}
